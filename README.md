@@ -15,7 +15,7 @@ git clone git@github.com:bugra-gokcek/fastqr.git && rm -f fastqr/README.md
 sudo mv fastqr/fastqr.sh /usr/local/bin/fastqr.sh && ln -s /usr/local/bin/fastqr/fastqr.sh /usr/local/bin/fastqr
 ```
 
-### 3.Just try it 
+### 3. Just try it 
 ```bash
 fastqr https://www.example.com/
 ```
