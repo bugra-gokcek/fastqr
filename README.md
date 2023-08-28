@@ -24,3 +24,16 @@ cd $HOME
 ```bash
 fastqr https://www.example.com/
 ```
+
+
+## NOTE!
+This script needs imagemagick package for display png QR image file.
+
+```bash
+sudo apt install imagemagick -y
+```
+
+If you dont want to install imagemagick, change the fastqr.sh line:6 
+```bash
+   display $HOME/qr.png & 
+```
