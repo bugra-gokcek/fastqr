@@ -6,7 +6,7 @@ Fast QR image generate for Linux with Chart API
 ### 1. Clone the project
 
 ```bash
-git clone git@github.com:bugra-gokcek/fastqr.git
+gh repo clone bugra-gokcek/fastqr
 ```
 
 ### 2. Create link
